@@ -3,7 +3,7 @@ total = 0
 for i in range(1,ver + 1):
     total  = total + i 
 print(total)
-
+#recursion
 def sum(n):
     if n == 0 or n== 1:
         return n 
